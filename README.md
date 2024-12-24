@@ -24,7 +24,7 @@
 #### AI and machine learning are rapidly developing fields with significant ethical considerations. It's important to be aware of potential concerns, similar to how seatbelt regulations evolved over time. Machine learning elements have transformative potential, necessitating future regulation.
 
 ## Data Sets
-####  a data set based on weather observations from 18 different weather stations across Europe, covering data from the late 1800s to 2022. This data includes temperature, wind speed, snow, global radiation, and more, collected by the European Climate Assessment & Data Set project.
+####  a data set based on weather observations from 18 different weather stations across Europe, covering data from the late 1800s to 2022. This data includes temperature, wind speed, snow, global radiation, and more, collected by the [European Climate Assessment & Data Set project](https://www.ecad.eu/).
 
 ## Data Set Details:
-#### Temperature Data Set: Download (16.6MB)
+#### Temperature Data Set: [Download (16.6MB)](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)
